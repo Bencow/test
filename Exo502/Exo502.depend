@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1509908997 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Character.h"
+	"Wizard.h"
+	"Warrior.h"
+	"Elfe.h"
+	"Enemy.h"
+
+1509878659 c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\include\character.h
+	<iostream>
+
+1509871819 c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\include\wizard.h
+	<iostream>
+	"Character.h"
+
+1509822325 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\src\character.cpp
+	"Character.h"
+
+1509881997 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\character.cpp
+	<iostream>
+	"Character.h"
+
+1509871854 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\wizard.cpp
+	<iostream>
+	"Wizard.h"
+
+1509871450 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\warrior.cpp
+	"Warrior.h"
+	<iostream>
+
+1509871694 c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\warrior.h
+	<iostream>
+	"Character.h"
+
+1509871854 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\elfe.cpp
+	<iostream>
+	"Elfe.h"
+
+1509871820 c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\elfe.h
+	"Character.h"
+
+1509876181 c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\include\enemy.h
+	"Character.h"
+
+1509881286 source:c:\users\benoit\documents\ece\ing2\informatique\c++\tp5\exo502\src\enemy.cpp
+	"Enemy.h"
+	<iostream>
+	<cstdlib>
+
